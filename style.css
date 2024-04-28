@@ -1,0 +1,61 @@
+h1,ul,li{
+display: inline;
+
+}
+.daya{
+    background-color: black;
+    color:white;
+    border-radius: 5px;
+    padding: 10px;
+}
+ul{
+    margin-left: 35%;
+}
+li{
+    color:grey;
+}
+li:hover{
+    color: white;
+}
+.plsa{
+    padding: 20px;
+    text-align: center;
+}
+.searchbar{
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+}
+
+.a,.b,.c{
+    display: inline-block;
+    border: 2px solid ;
+    margin-top: 30px;
+    width: 220px;
+}
+.a:hover{
+    background-color:black;
+    color:white
+}
+.b:hover{
+    background-color:black;
+    color: white;
+}
+.c:hover{
+    background-color: black;
+    color: white;
+}
+.about{
+    text-align: center;
+    margin-top:25px;
+}
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    
+}
+.d{
+    background-color:pink;
+}
